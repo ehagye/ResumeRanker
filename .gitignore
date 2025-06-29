@@ -37,4 +37,14 @@ Temporary Items
 # ignore the virtual enviroment file
 .venv
 
+# Ignore python cache file
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos
